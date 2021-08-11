@@ -1,0 +1,32 @@
+p {
+  color: #ff00aa;
+}
+body {
+background-color: black;
+}
+
+h1 {
+  font-family: 'Style Script', cursive;
+  font-size: 80px;
+  text-align: center;
+  text-decoration: underline overline;
+  text-transform: capitalize;
+  text-shadow: 2px 2px #b38f00;
+}
+
+
+img {
+  border-radius: 40px;
+  width: 60%;
+  height:auto;
+  filter: blur(0.2px);
+}
+ul {
+  color: #ff00aa;
+  list-style-image: url("heart.png");
+}
+em {
+  color:#ffff66;
+  font-size: 30px;
+  font-family: 'Pacifico', cursive;
+}
